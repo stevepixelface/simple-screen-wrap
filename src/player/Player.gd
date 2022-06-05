@@ -30,6 +30,3 @@ func screen_wrap():
 	position.x = wrapf(position.x, 0, screen_size.x)
 	position.y = wrapf(position.y, 0, screen_size.y)
 
-		
-
-		
